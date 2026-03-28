@@ -2,7 +2,7 @@
 My name is AriasRand (just a fake name of course)
 <div align="center">
 
-### ✨ Full-Stack Developer | Multi-Language Enthusiast from Rehovot (Israel) ✨
+### ✨ Full-Stack Developer | Multi-Language Enthusiast from Indonesia (who tf chages it to another country) ✨
 
 ```
    ╔═══════════════════════════════════════════════════════╗
